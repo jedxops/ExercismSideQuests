@@ -8,7 +8,11 @@ only the function implementations found in the src/lib.rs files.
 
 # Building and Running the Tests
 Type  
+
     cargo build
+
 followed by  
+
     cargo test
+
 to run the tests on the written code.
